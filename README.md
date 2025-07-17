@@ -39,4 +39,8 @@ This dashboard was developed in Power BI using several technical approaches to e
 These technical implementations allow management to make more informed and visually supported decisions about the workforce.
 
 ## Dasboard Preview
-![Home Page](
+![Home Page](https://github.com/seymurabdullayev/HR-Dashboard-Report/blob/d266d1aad6a2e2101fd298f5e1ecec8a405257c1/Home%20Page%20.png)
+
+![Detail Page](https://github.com/seymurabdullayev/HR-Dashboard-Report/blob/d266d1aad6a2e2101fd298f5e1ecec8a405257c1/Detail%20Page.png)
+
+![Action Page](https://github.com/seymurabdullayev/HR-Dashboard-Report/blob/d266d1aad6a2e2101fd298f5e1ecec8a405257c1/Action%20Page.png)
