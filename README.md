@@ -18,7 +18,7 @@ The dashboard highlights key HR metrics through the following visuals:
 - Female Employees – a card visual showing the total number of female employees
 - Service Years – a clustered bar chart displaying employee tenure distribution
 - Distance Status – a donut chart showing employees grouped by the distance between their home and office
-- Job Levels – a stacked column chart illustrating five job levels based on satisfaction levels
+- Job Levels – a stacked column chart illustrating five job levels based on satisfaction levelsH
 - Overtime Status – a pie chart comparing employees working overtime vs. not
 - Employees Job Satisfaction – a stacked column chart dividing job satisfaction into high, medium, and low categories
 - Employees Indicators by Education Fields – a clustered column chart displaying employees categorized by their education fields
@@ -44,3 +44,10 @@ These technical implementations allow management to make more informed and visua
 ![Detail Page](https://github.com/seymurabdullayev/HR-Dashboard-Report/blob/d266d1aad6a2e2101fd298f5e1ecec8a405257c1/Detail%20Page.png)
 
 ![Action Page](https://github.com/seymurabdullayev/HR-Dashboard-Report/blob/d266d1aad6a2e2101fd298f5e1ecec8a405257c1/Action%20Page.png)
+
+## How to Use
+
+1. Download the [HR_Analytics_Dashboard.pbix](HR_Analytics_Dashboard.pbix) file from this repository.
+2. Open it using Power BI Desktop.
+3. Review the visualizations and interact with filters and slicers.
+
