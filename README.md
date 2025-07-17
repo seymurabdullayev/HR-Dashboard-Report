@@ -37,3 +37,6 @@ This dashboard was developed in Power BI using several technical approaches to e
 5. Interactive user experience: Users can explore data more deeply through interactive filtering and visual-level cross-highlighting.
 
 These technical implementations allow management to make more informed and visually supported decisions about the workforce.
+
+## Dasboard Preview
+![Home Page](
